@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img width="220" height="220" alt="Obito Dance" src="https://github.com/user-attachments/assets/62ca4dea-80f3-48f4-bc0d-c8526b024d5c" />
+<div align="center">
+<img width="425" height="320" alt="Obito Dance" src="https://github.com/user-attachments/assets/62ca4dea-80f3-48f4-bc0d-c8526b024d5c" />
+</div>
 
 <!--
 **Ritwik220/Ritwik220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
