@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/2e2e8aa0-6026-45eb-8904-33ab31fe6334" />
 
 <!--
 **Ritwik220/Ritwik220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
